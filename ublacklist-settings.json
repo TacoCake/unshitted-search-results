@@ -1,0 +1,73 @@
+{
+  "blacklist": "",
+  "blockWholeSite": false,
+  "skipBlockDialog": false,
+  "hideBlockLinks": false,
+  "hideControl": false,
+  "enablePathDepth": false,
+  "linkColor": "default",
+  "blockColor": "default",
+  "highlightColors": [
+    "#ddeeff"
+  ],
+  "dialogTheme": "default",
+  "syncBlocklist": true,
+  "syncGeneral": false,
+  "syncAppearance": false,
+  "syncSubscriptions": false,
+  "syncInterval": 15,
+  "subscriptions": [
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/ublacklist.txt",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/other_format/uBlacklist/global.txt",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist.txt",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/elliotwutingfeng/SpamdexingSites/main/blocklist_UBL.txt",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://pgl.yoyo.org/as/serverlist.php?hostformat=plain&mimetype=plaintext&prepend=*://*.&append=/*&showintro=0",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/wherelse/content-farm-blacklist/main/blacklist.txt",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/BitesizedLion/various-lists/main/ublacklist.txt",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/HO-0520-IT/uBlacklist-malicious-sites/master/list.txt",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/nicoleahmed/nicoles-ublacklist/main/nicoles_masterUBL.txt",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://raw.githubusercontent.com/BitesizedLion/various-lists/main/ublacklist-fakepng.txt",
+      "enabled": true
+    }
+  ],
+  "updateInterval": 120,
+  "version": "8.8.2"
+}
